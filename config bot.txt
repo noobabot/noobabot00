@@ -1,0 +1,5 @@
+{
+
+      "ip":"MOB00.aternos.me",
+      "port": "26028"
+      "name": "noobabot"
